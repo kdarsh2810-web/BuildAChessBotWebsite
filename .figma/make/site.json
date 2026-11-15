@@ -1,0 +1,10 @@
+{
+  "description": "Play chess against bots at five skill levels, from beginner to perfect play, and get move-by-move game analysis to improve your strategy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
